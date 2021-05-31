@@ -1,0 +1,47 @@
+{
+    "__class__": "Lista",
+    "datos": [
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "carrera": "6",
+                "cargo": "7",
+                "catedra": "8",
+                "cuil": 1,
+                "apellido": "2",
+                "nombre": "3",
+                "sb": 4,
+                "antiguedad": 5
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "imp": 12,
+                "catinc": "11",
+                "carrera": "6",
+                "cargo": "8",
+                "catedra": "7",
+                "area": "9",
+                "tipo": "10",
+                "cuil": 1,
+                "apellido": "2",
+                "nombre": "3",
+                "sb": 4,
+                "antiguedad": 5
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "area": "6",
+                "tipo": "7",
+                "cuil": 1,
+                "apellido": "2",
+                "nombre": "3",
+                "sb": 4,
+                "antiguedad": 5
+            }
+        }
+    ]
+}
